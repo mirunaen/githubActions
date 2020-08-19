@@ -7,7 +7,7 @@ jobs:
     name: First job
     runs-on: ubuntu-latest
     steps:
-      - name: Step 1
+      - name: Step one
       - name: Step two
   job2:
     name: Second job
